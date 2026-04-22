@@ -115,3 +115,7 @@ Accuracy is ~6× random baseline (1/15 = 6.7%). Main challenge: severe class imb
 ## Tech Stack
 
 Python · pandas · NumPy · scikit-learn · matplotlib
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
