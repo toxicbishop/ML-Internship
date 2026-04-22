@@ -1,15 +1,15 @@
-# Cognifyz Machine Learning Internship
+# Machine Learning Internship
 
-This repository contains my solutions to the Cognifyz IT Solutions Machine Learning internship tasks, built on the provided restaurants dataset (`Dataset .csv`, 9,551 restaurants across multiple countries).
+This repository contains my solutions to the IT Solutions Machine Learning internship tasks, built on the provided restaurants dataset (`Dataset .csv`, 9,551 restaurants across multiple countries).
 
 ## Tasks Completed
 
-| # | Task | Objective |
-|---|---|---|
-| 1 | Predict Restaurant Ratings | Regression model to predict `Aggregate rating` |
-| 2 | Restaurant Recommendation | Content-based filtering system using user preferences |
-| 3 | Cuisine Classification | Multi-class classifier for primary cuisine |
-| 4 | Location-based Analysis | Geographic distribution, city/locality statistics |
+| #   | Task                       | Objective                                             |
+| --- | -------------------------- | ----------------------------------------------------- |
+| 1   | Predict Restaurant Ratings | Regression model to predict `Aggregate rating`        |
+| 2   | Restaurant Recommendation  | Content-based filtering system using user preferences |
+| 3   | Cuisine Classification     | Multi-class classifier for primary cuisine            |
+| 4   | Location-based Analysis    | Geographic distribution, city/locality statistics     |
 
 ## Repository Structure
 
@@ -70,10 +70,10 @@ Or open the corresponding `.ipynb` in Jupyter / Google Colab and run the cells t
 
 Compared Linear Regression, Decision Tree, and Random Forest.
 
-| Model | MSE | RMSE | MAE | R² |
-|---|---|---|---|---|
-| Linear Regression | 1.5599 | 1.2490 | 1.0429 | 0.315 |
-| Decision Tree | 0.1760 | 0.4195 | 0.2677 | 0.923 |
+| Model             | MSE        | RMSE       | MAE        | R²        |
+| ----------------- | ---------- | ---------- | ---------- | --------- |
+| Linear Regression | 1.5599     | 1.2490     | 1.0429     | 0.315     |
+| Decision Tree     | 0.1760     | 0.4195     | 0.2677     | 0.923     |
 | **Random Forest** | **0.0860** | **0.2933** | **0.1915** | **0.962** |
 
 **Most influential features:** `Votes` (dominant), geographic coordinates, `Cuisines`, `Average Cost for two`. Leakage columns (`Rating color`, `Rating text`) were dropped as they are derived from the target.
@@ -88,10 +88,10 @@ Tested on four sample user personas — every user received top-5 recommendation
 
 Multi-class classification on the top-15 primary cuisines (8,023 rows).
 
-| Model | Accuracy | Macro F1 | Weighted F1 |
-|---|---|---|---|
-| Logistic Regression | 0.118 | 0.120 | 0.085 |
-| **Random Forest** | **0.393** | **0.211** | **0.334** |
+| Model               | Accuracy  | Macro F1  | Weighted F1 |
+| ------------------- | --------- | --------- | ----------- |
+| Logistic Regression | 0.118     | 0.120     | 0.085       |
+| **Random Forest**   | **0.393** | **0.211** | **0.334**   |
 
 Accuracy is ~6× random baseline (1/15 = 6.7%). Main challenge: severe class imbalance — North Indian represents 37% of samples, and most misclassifications default to it. Available features are mostly geographic/operational rather than culinary, creating a hard ceiling on performance.
 
