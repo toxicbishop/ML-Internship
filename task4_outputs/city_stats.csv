@@ -1,0 +1,142 @@
+City,count,avg_rating,rated_pct,avg_cost,avg_price_range,top_cuisine
+New Delhi,5473,3.297381422924901,73.9630915402887,596.0880687008953,1.6215969303855289,North Indian
+Gurgaon,1118,3.330674157303371,79.60644007155635,714.0161001788908,1.8559928443649374,North Indian
+Noida,1080,3.159626436781609,64.44444444444444,539.4907407407408,1.6018518518518519,North Indian
+Faridabad,251,3.1033112582781457,60.1593625498008,447.60956175298804,1.454183266932271,North Indian
+Ghaziabad,25,3.1,92.0,602.0,1.8,North Indian
+Bhubaneshwar,21,3.9809523809523806,100.0,678.5714285714286,1.8571428571428572,Chinese
+Lucknow,21,4.1952380952380945,100.0,859.5238095238095,2.5714285714285716,Cafe
+Amritsar,21,3.6857142857142855,100.0,480.95238095238096,1.8095238095238095,North Indian
+Ahmedabad,21,4.161904761904762,100.0,857.1428571428571,2.5714285714285716,Continental
+Guwahati,21,4.190476190476191,100.0,821.4285714285714,2.5238095238095237,Chinese
+Jaipur,20,4.13,100.0,1310.0,2.85,Continental
+Nashik,20,3.5200000000000005,100.0,662.5,2.8,North Indian
+Nagpur,20,3.965,100.0,715.0,2.3,Chinese
+Mysore,20,3.6950000000000003,100.0,814.5,2.45,North Indian
+Mumbai,20,4.085,100.0,1072.5,2.75,Italian
+Mangalore,20,3.745,100.0,782.5,2.5,North Indian
+Manchester,20,4.045,100.0,49.25,2.7,American
+Indore,20,3.97,100.0,960.0,2.75,North Indian
+Macon,20,4.115,100.0,27.25,2.05,Sushi
+Agra,20,3.965,100.0,1065.0,2.65,North Indian
+Patna,20,3.4549999999999996,100.0,797.5,2.45,North Indian
+London,20,4.535,100.0,64.5,3.0,Indian
+Kolkata,20,4.255,100.0,1272.5,2.85,North Indian
+Kochi,20,4.08,100.0,730.0,2.05,Kerala
+Kanpur,20,3.815,100.0,915.0,2.7,North Indian
+Orlando,20,4.475,100.0,40.25,2.9,American
+Abu Dhabi,20,4.3,100.0,182.0,3.3,Indian
+Pensacola,20,4.2,100.0,30.25,2.35,Seafood
+Goa,20,4.245,100.0,1175.0,3.65,Seafood
+Wellington City,20,4.25,100.0,71.25,3.25,Cafe
+Waterloo,20,3.65,100.0,21.25,1.75,American
+Vizag,20,4.005,100.0,780.0,2.35,North Indian
+Varanasi,20,3.5100000000000002,100.0,505.0,2.45,North Indian
+Valdosta,20,3.715,100.0,29.25,2.25,Mexican
+Vadodara,20,4.025,100.0,820.0,2.6,North Indian
+Tampa Bay,20,4.41,100.0,34.75,2.55,Seafood
+S��o Paulo,20,4.152941176470588,85.0,157.25,3.6,Brazilian
+Surat,20,3.935,100.0,812.5,2.65,Italian
+Sioux City,20,3.7649999999999997,100.0,24.25,1.9,American
+Singapore,20,3.575,100.0,155.75,3.65,American
+Sharjah,20,4.029999999999999,100.0,105.5,3.3,Indian
+Savannah,20,4.154999999999999,100.0,32.5,2.35,American
+Rio de Janeiro,20,4.489473684210526,95.0,126.75,3.5,Brazilian
+Rest of Hawaii,20,4.41,100.0,31.75,2.35,Seafood
+Ranchi,20,3.4549999999999996,100.0,735.0,2.05,North Indian
+Pune,20,4.220000000000001,100.0,1337.5,2.95,North Indian
+Puducherry,20,3.7299999999999995,100.0,842.5,3.0,Continental
+Pretoria,20,4.1899999999999995,100.0,492.25,3.7,Burger
+Pocatello,20,3.668421052631579,95.0,20.75,1.8,American
+Ludhiana,20,3.9799999999999995,100.0,1160.0,2.65,North Indian
+Gainesville,20,4.035,100.0,21.25,1.75,Sandwich
+Dalton,20,4.11,100.0,16.0,1.4,American
+Colombo,20,3.87,100.0,2375.0,2.85,American
+Coimbatore,20,4.135,100.0,782.5,2.4,North Indian
+Davenport,20,4.127777777777777,90.0,25.25,2.0,American
+Chennai,20,4.3149999999999995,100.0,1085.0,2.45,North Indian
+Dehradun,20,4.05,100.0,727.5,3.05,North Indian
+Des Moines,20,4.235,100.0,28.0,2.15,American
+Cedar Rapids/Iowa City,20,4.165,100.0,25.75,2.05,American
+Cape Town,20,4.11,100.0,297.2,3.2,Cafe
+Doha,20,4.0600000000000005,100.0,223.75,3.65,Indian
+Bras�_lia,20,3.6789473684210527,95.0,120.0,3.1,Brazilian
+Dubai,20,4.37,100.0,211.75,3.05,Indian
+Boise,20,4.26,100.0,27.25,2.05,American
+Birmingham,20,3.8736842105263154,95.0,39.0,2.4,British
+Bhopal,20,3.95,100.0,620.0,2.15,Fast Food
+Dubuque,20,3.535,100.0,23.75,1.9,American
+Bangalore,20,4.375,100.0,1232.5,2.7,North Indian
+Edinburgh,20,4.09,100.0,38.5,2.9,Cafe
+Aurangabad,20,3.375,100.0,622.5,2.2,North Indian
+Augusta,20,4.13,100.0,27.0,2.15,American
+Auckland,20,4.275,100.0,68.25,3.05,Cafe
+Athens,20,4.2,100.0,19.0,1.6,American
+Ankara,20,4.305,100.0,87.25,2.8,Kebab
+Allahabad,20,3.3950000000000005,100.0,517.5,2.65,North Indian
+Albany,20,3.5549999999999997,100.0,19.75,1.7,American
+Columbus,20,4.029999999999999,100.0,26.75,2.15,American
+Chandigarh,18,4.050000000000001,100.0,1072.2222222222222,2.5,North Indian
+Hyderabad,18,4.344444444444445,100.0,1361.111111111111,2.888888888888889,North Indian
+Jakarta,16,4.35625,100.0,308437.5,3.0,Western
+��stanbul,14,4.292857142857143,100.0,81.42857142857143,2.857142857142857,Desserts
+Sandton,11,4.3,100.0,375.90909090909093,3.8181818181818183,Italian
+Johannesburg,6,4.2,100.0,470.0,4.0,Pizza
+Taguig City,4,4.525,100.0,1725.0,3.5,American
+Mandaluyong City,4,4.625,100.0,2000.0,3.75,Japanese
+Pasay City,3,4.366666666666667,100.0,3333.3333333333335,4.0,Asian
+Pasig City,3,4.633333333333334,100.0,933.3333333333334,3.0,Filipino
+San Juan City,2,4.25,100.0,850.0,3.0,Filipino
+Bogor,2,3.85,100.0,160000.0,2.5,Cafe
+Secunderabad,2,4.5,100.0,825.0,2.0,North Indian
+Inner City,2,4.9,100.0,1120.0,4.0,European
+Hepburn Springs,2,3.8,100.0,13.5,1.5,Cafe
+Santa Rosa,2,3.8,100.0,825.0,3.0,Italian
+Tangerang,2,4.300000000000001,100.0,250000.0,3.0,Indonesian
+Makati City,2,4.65,100.0,1150.0,3.0,Japanese
+Huskisson,1,4.1,100.0,20.0,2.0,Breakfast
+Tagaytay City,1,4.5,100.0,1200.0,3.0,Filipino
+Lakes Entrance,1,3.8,100.0,7.0,1.0,Breakfast
+Beechworth,1,4.6,100.0,20.0,2.0,Pizza
+East Ballina,1,4.1,100.0,20.0,2.0,Cafe
+Bandung,1,4.2,100.0,150000.0,3.0,Cafe
+Balingup,1,3.2,100.0,20.0,2.0,Modern Australian
+Yorkton,1,3.3,100.0,25.0,2.0,Asian
+Fernley,1,3.7,100.0,10.0,1.0,Mexican
+Winchester Bay,1,3.2,100.0,25.0,2.0,Burger
+Flaxton,1,3.5,100.0,30.0,3.0,Tea
+Tanunda,1,4.4,100.0,30.0,3.0,Modern Australian
+Inverloch,1,3.7,100.0,7.0,1.0,Burger
+Weirton,1,3.9,100.0,25.0,2.0,Burger
+Armidale,1,3.5,100.0,20.0,2.0,Bar Food
+Vernonia,1,4.3,100.0,10.0,1.0,Coffee and Tea
+Victor Harbor,1,3.6,100.0,20.0,2.0,Coffee and Tea
+Vineland Station,1,4.3,100.0,70.0,4.0,Italian
+Trentham East,1,4.1,100.0,20.0,2.0,Australian
+Mohali,1,4.3,100.0,550.0,2.0,Continental
+Monroe,1,3.6,100.0,25.0,2.0,Italian
+Randburg,1,4.3,100.0,200.0,3.0,Cafe
+Montville,1,2.4,100.0,30.0,3.0,Coffee and Tea
+Miller,1,3.4,100.0,0.0,1.0,Unknown
+Consort,1,3.0,100.0,25.0,2.0,Chinese
+Middleton Beach,1,3.8,100.0,30.0,3.0,Bar Food
+Mc Millan,1,2.4,100.0,10.0,1.0,Breakfast
+Mayfield,1,2.9,100.0,20.0,2.0,Asian
+Cochrane,1,3.1,100.0,25.0,2.0,Asian
+Ojo Caliente,1,3.6,100.0,40.0,3.0,American
+Clatskanie,1,4.3,100.0,10.0,1.0,American
+Palm Cove,1,4.4,100.0,30.0,3.0,Mediterranean
+Panchkula,1,4.2,100.0,2000.0,4.0,North Indian
+Forrest,1,3.7,100.0,20.0,2.0,Cafe
+Paynesville,1,2.6,100.0,120.0,4.0,Modern Australian
+Penola,1,3.4,100.0,20.0,2.0,Cafe
+Chatham-Kent,1,3.7,100.0,25.0,2.0,Japanese
+Phillip Island,1,3.7,100.0,20.0,2.0,Breakfast
+Potrero,1,3.3,100.0,25.0,2.0,American
+Macedon,1,3.5,100.0,20.0,2.0,Cafe
+Princeton,1,4.0,100.0,70.0,4.0,Seafood
+Dicky Beach,1,3.6,100.0,7.0,1.0,Coffee and Tea
+Lorn,1,3.6,100.0,20.0,2.0,Breakfast
+Quezon City,1,4.8,100.0,800.0,3.0,Filipino
+Lincoln,1,4.5,100.0,25.0,2.0,Thai
+Lakeview,1,3.6,100.0,10.0,1.0,Burger
